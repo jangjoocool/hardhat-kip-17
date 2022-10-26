@@ -37,6 +37,7 @@
   },
   "dependencies": {
     "@chainlink/contracts": "0.2.1",
+    "@klaytn/contracts": "^1.0.4",
     "@openzeppelin/contracts": "^4.4.1",
     "mocha": "^9.2.1"
   }
